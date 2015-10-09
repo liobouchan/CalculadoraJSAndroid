@@ -13,7 +13,7 @@ body{
   width: 100%;
 }
 
-#calculatorStyle .span1 {
+/*#calculatorStyle .span1 {
   height: 42px;
   font-size: 42px;
 }
@@ -23,7 +23,7 @@ body{
 }
 #calculatorStyle .span1 .hidden-phone {
   line-height: 42px;
-}
+}*/
 .btn {
   align-content: center;
   width: 15%;
