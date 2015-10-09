@@ -24,3 +24,10 @@ body{
 #calculatorStyle .span1 .hidden-phone {
   line-height: 42px;
 }
+.btn {
+  align-content: center;
+  width: 15%;
+  height: 50px;
+  margin: 1px 5px 5px 1px;
+  line-height: 30px;
+}
